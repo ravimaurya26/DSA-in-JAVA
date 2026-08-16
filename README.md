@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0518-coin-change-ii) |
+| [1092-shortest-common-supersequence](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
@@ -40,9 +41,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

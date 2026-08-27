@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
+| [0128-longest-consecutive-sequence](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0322-coin-change](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0518-coin-change-ii) |
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

@@ -16,7 +16,7 @@ class Solution {
                 counter++;
             } 
             else if (nums[i + 1] == nums[i]) {
-                // duplicate, do nothing
+                
             } 
             else {
                 counter = 1;

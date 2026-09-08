@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0518-coin-change-ii) |
+| [1472-design-browser-history](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1472-design-browser-history) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -155,4 +158,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->

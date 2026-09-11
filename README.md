@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0518-coin-change-ii) |
 | [1472-design-browser-history](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1480-running-sum-of-1d-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0002-add-two-numbers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |

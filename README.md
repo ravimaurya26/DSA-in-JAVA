@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0322-coin-change](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0494-target-sum) |
@@ -214,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->

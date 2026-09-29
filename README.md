@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0518-coin-change-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0148-sort-list) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->

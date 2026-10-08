@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0322-coin-change) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union-Find
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Design
@@ -292,4 +296,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

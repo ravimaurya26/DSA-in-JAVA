@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1472-design-browser-history](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1480-running-sum-of-1d-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |

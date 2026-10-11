@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0148-sort-list) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0268-missing-number) |
@@ -313,4 +316,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

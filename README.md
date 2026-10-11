@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |

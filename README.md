@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1472-design-browser-history](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1480-running-sum-of-1d-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union-Find
 |  |

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search Tree
 |  |

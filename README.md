@@ -353,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->

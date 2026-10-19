@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0633-sum-of-square-numbers) |
 ## Binary Lifting
 |  |
 | ------- |

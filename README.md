@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Binary Search Tree
 |  |
 | ------- |

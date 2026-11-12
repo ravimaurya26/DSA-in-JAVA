@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0283-move-zeroes) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Design
@@ -351,10 +354,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ravimaurya26/DSA-in-JAVA/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
 | ------- |
